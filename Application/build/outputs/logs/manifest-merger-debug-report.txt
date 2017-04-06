@@ -1,0 +1,439 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:18:1-55:12
+	package
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:19:11-74
+	android:versionName
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:21:11-36
+		INJECTED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:20:11-34
+		INJECTED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/deepesh/.android/build-cache/342d2d163b616bcff933347671f7ba00356c46ff/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/deepesh/.android/build-cache/f1b86fc77dfb316f22b50fc57e48587730fb6d45/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /Users/deepesh/.android/build-cache/486724195aac209e9d10e2f82e4d68de0b62d4b2/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/deepesh/.android/build-cache/e883f1a881480e6013a617d5b2d0fcfdfb27b46b/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/deepesh/.android/build-cache/ca48c2df412b8bce7ea26e14d97a2d85d8519c36/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/deepesh/.android/build-cache/11a3c8011198a08a6639449c87897be0f4733f74/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/deepesh/.android/build-cache/342d2d163b616bcff933347671f7ba00356c46ff/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/deepesh/.android/build-cache/f1b86fc77dfb316f22b50fc57e48587730fb6d45/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/deepesh/.android/build-cache/93c681ae7d7b898f472d67fffbb025fbeb9edb93/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /Users/deepesh/.android/build-cache/c41f13f007b9c4ce837ff76a1e2b201a6cc0f5db/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/deepesh/.android/build-cache/788d7d45134ec5f922944f569bd1688bd054e5a1/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/deepesh/.android/build-cache/b37caf85525490af263292fd53dd6b6c63d4c697/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/deepesh/.android/build-cache/e883f1a881480e6013a617d5b2d0fcfdfb27b46b/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/deepesh/.android/build-cache/ca48c2df412b8bce7ea26e14d97a2d85d8519c36/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/deepesh/.android/build-cache/11a3c8011198a08a6639449c87897be0f4733f74/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:23:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:24:5-98
+	android:name
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:24:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:25:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:26:22-76
+uses-sdk
+ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:27:5-29:44
+MERGED from [com.android.support:multidex:1.0.1] /Users/deepesh/.android/build-cache/2a0e5db58b4006039dd6e0c385c804db751e9e6e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v13:23.1.1] /Users/deepesh/.android/build-cache/7805bd0374b557267017bf99f25c98e539213fc8/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:23.1.1] /Users/deepesh/.android/build-cache/8cdb4cfe6d78a9d728d5fa445c7045e5c804cc9b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:10.2.1] /Users/deepesh/.android/build-cache/b79681637577ec88e831ebfdfb5f0e0165676401/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] /Users/deepesh/.android/build-cache/404cc2b6f7637e75a7fabe55e53f78db738fd7d9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/deepesh/.android/build-cache/342d2d163b616bcff933347671f7ba00356c46ff/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/deepesh/.android/build-cache/f1b86fc77dfb316f22b50fc57e48587730fb6d45/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/deepesh/.android/build-cache/93c681ae7d7b898f472d67fffbb025fbeb9edb93/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /Users/deepesh/.android/build-cache/848749768bc88670a2c824ee0673953ec6eff9af/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] /Users/deepesh/.android/build-cache/85f6537a94508e949e5a2f5bf37b72503172271b/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/deepesh/.android/build-cache/2786c8ea24b1e359702eb0a772e43b857bdc5066/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] /Users/deepesh/.android/build-cache/fc984f893fe8580539e44182b34ee438a0090bf6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/deepesh/.android/build-cache/c177426fd39542740fb0cac02337eebcbc3e3d05/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/deepesh/.android/build-cache/9a879df883e8c2f08e5b4ef35a6e11bebce7b6de/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/deepesh/.android/build-cache/f041790df2467b4d0464b733d6c8ea29d6771649/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/deepesh/.android/build-cache/012692cfc1e2a343f6962fed94076c724f06f91b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/deepesh/.android/build-cache/9c28aeb5b17e22d2c0d4a88f08bd3a17bacdd150/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /Users/deepesh/.android/build-cache/d70fff961f2a3ac424563619d34ed618d121fa02/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.1] /Users/deepesh/.android/build-cache/2e93c050fe4cff6a6899cb963ba2f55fc3360986/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /Users/deepesh/.android/build-cache/0c286c7eabbbc9fe3527194f19f92e37f595b210/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /Users/deepesh/.android/build-cache/c41f13f007b9c4ce837ff76a1e2b201a6cc0f5db/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /Users/deepesh/.android/build-cache/aad5c772a25111930c78eeb756478e125a7116c8/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] /Users/deepesh/.android/build-cache/07d456c4aa9f329ae776495fca96e5aa1dce8f69/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] /Users/deepesh/.android/build-cache/67e729721d67729424ee82ec9ea434e09d81832f/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /Users/deepesh/.android/build-cache/ea2c8cf9cdfc3411181ec3981497f92409226e01/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.1] /Users/deepesh/.android/build-cache/6f4111a13739cf56633b2d79d163ce714b507eb2/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] /Users/deepesh/.android/build-cache/8253c88c40d88894222eb298fca734496f806e0d/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /Users/deepesh/.android/build-cache/5f7ba3743b42027c9a748996201b0b15f115d5c7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.1] /Users/deepesh/.android/build-cache/2229e9bcb999a64a6d872932f5297ebb369dd3a7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] /Users/deepesh/.android/build-cache/5441550dad135951f0fff1eb1710ab0bea03c6f2/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /Users/deepesh/.android/build-cache/69af23c9af986cf59561f54e5ca8aa663edee1da/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/deepesh/.android/build-cache/788d7d45134ec5f922944f569bd1688bd054e5a1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /Users/deepesh/.android/build-cache/d6f3f3a9580008905dd1adb1b70bb71b902c2fd6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/deepesh/.android/build-cache/b37caf85525490af263292fd53dd6b6c63d4c697/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] /Users/deepesh/.android/build-cache/93674b78d6173af6193dda9d92edaaa8422ee178/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /Users/deepesh/.android/build-cache/090ea3dd5fa539a3ead833afc3ff971a33e5b999/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /Users/deepesh/.android/build-cache/486724195aac209e9d10e2f82e4d68de0b62d4b2/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /Users/deepesh/.android/build-cache/d2feb3aff1cf8adac063b081d21b887927b15f5b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.1] /Users/deepesh/.android/build-cache/64af70f7e64d6426d341127afc9472fbcf2ac56a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] /Users/deepesh/.android/build-cache/f221a366e5d2e20379ce8d0d3ffce17e022256c5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /Users/deepesh/.android/build-cache/1fc8e035536bf7cc9a5b7982dda980216932c821/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] /Users/deepesh/.android/build-cache/51519728a29fe61c80056897b92731f68d175c14/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/deepesh/.android/build-cache/e883f1a881480e6013a617d5b2d0fcfdfb27b46b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] /Users/deepesh/.android/build-cache/bf2039cdad743cee65399dc38f419e4bfd4144bf/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /Users/deepesh/.android/build-cache/c802d6377321af53874945bc261c965186f1605d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/deepesh/.android/build-cache/ca48c2df412b8bce7ea26e14d97a2d85d8519c36/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] /Users/deepesh/.android/build-cache/6123cc6c2c2e4233231d02a3cf098d6c3dcbe346/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] /Users/deepesh/.android/build-cache/6e5d8adb8cecf71afd99c4bbf4a97a6e0fef4398/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] /Users/deepesh/.android/build-cache/0a88e0db651f8f156a415c4b86cb8326b0fed7ca/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /Users/deepesh/.android/build-cache/2c83cfcbb8039157e41d28e788f6121dad02201d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/deepesh/.android/build-cache/11a3c8011198a08a6639449c87897be0f4733f74/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/deepesh/.android/build-cache/a4881fdffa6633c53365d99db6d60b7f191e2dd9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/deepesh/.android/build-cache/87e4db4f18ff3f35c2d0d474ea3e6f00971f30a1/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/deepesh/.android/build-cache/cc71c84dee5549e12aa566c478383b52067d9e3f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/deepesh/.android/build-cache/845e62ee825833833992e6f237a33dced9aef6c6/output/AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] /Users/deepesh/.android/build-cache/f041790df2467b4d0464b733d6c8ea29d6771649/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:29:13-42
+		INJECTED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:28:13-39
+		INJECTED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+application
+ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:31:5-52:19
+MERGED from [com.android.support:support-v13:23.1.1] /Users/deepesh/.android/build-cache/7805bd0374b557267017bf99f25c98e539213fc8/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.1.1] /Users/deepesh/.android/build-cache/8cdb4cfe6d78a9d728d5fa445c7045e5c804cc9b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:10.2.1] /Users/deepesh/.android/build-cache/b79681637577ec88e831ebfdfb5f0e0165676401/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/deepesh/.android/build-cache/342d2d163b616bcff933347671f7ba00356c46ff/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/deepesh/.android/build-cache/f1b86fc77dfb316f22b50fc57e48587730fb6d45/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/deepesh/.android/build-cache/93c681ae7d7b898f472d67fffbb025fbeb9edb93/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /Users/deepesh/.android/build-cache/848749768bc88670a2c824ee0673953ec6eff9af/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/deepesh/.android/build-cache/2786c8ea24b1e359702eb0a772e43b857bdc5066/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] /Users/deepesh/.android/build-cache/fc984f893fe8580539e44182b34ee438a0090bf6/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/deepesh/.android/build-cache/c177426fd39542740fb0cac02337eebcbc3e3d05/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/deepesh/.android/build-cache/9a879df883e8c2f08e5b4ef35a6e11bebce7b6de/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/deepesh/.android/build-cache/f041790df2467b4d0464b733d6c8ea29d6771649/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/deepesh/.android/build-cache/012692cfc1e2a343f6962fed94076c724f06f91b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/deepesh/.android/build-cache/9c28aeb5b17e22d2c0d4a88f08bd3a17bacdd150/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /Users/deepesh/.android/build-cache/d70fff961f2a3ac424563619d34ed618d121fa02/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.1] /Users/deepesh/.android/build-cache/2e93c050fe4cff6a6899cb963ba2f55fc3360986/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /Users/deepesh/.android/build-cache/0c286c7eabbbc9fe3527194f19f92e37f595b210/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /Users/deepesh/.android/build-cache/c41f13f007b9c4ce837ff76a1e2b201a6cc0f5db/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /Users/deepesh/.android/build-cache/aad5c772a25111930c78eeb756478e125a7116c8/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /Users/deepesh/.android/build-cache/ea2c8cf9cdfc3411181ec3981497f92409226e01/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /Users/deepesh/.android/build-cache/5f7ba3743b42027c9a748996201b0b15f115d5c7/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.1] /Users/deepesh/.android/build-cache/2229e9bcb999a64a6d872932f5297ebb369dd3a7/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] /Users/deepesh/.android/build-cache/5441550dad135951f0fff1eb1710ab0bea03c6f2/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /Users/deepesh/.android/build-cache/69af23c9af986cf59561f54e5ca8aa663edee1da/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/deepesh/.android/build-cache/788d7d45134ec5f922944f569bd1688bd054e5a1/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /Users/deepesh/.android/build-cache/d6f3f3a9580008905dd1adb1b70bb71b902c2fd6/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/deepesh/.android/build-cache/b37caf85525490af263292fd53dd6b6c63d4c697/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /Users/deepesh/.android/build-cache/090ea3dd5fa539a3ead833afc3ff971a33e5b999/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /Users/deepesh/.android/build-cache/486724195aac209e9d10e2f82e4d68de0b62d4b2/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /Users/deepesh/.android/build-cache/d2feb3aff1cf8adac063b081d21b887927b15f5b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.1] /Users/deepesh/.android/build-cache/64af70f7e64d6426d341127afc9472fbcf2ac56a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] /Users/deepesh/.android/build-cache/f221a366e5d2e20379ce8d0d3ffce17e022256c5/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /Users/deepesh/.android/build-cache/1fc8e035536bf7cc9a5b7982dda980216932c821/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/deepesh/.android/build-cache/e883f1a881480e6013a617d5b2d0fcfdfb27b46b/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] /Users/deepesh/.android/build-cache/bf2039cdad743cee65399dc38f419e4bfd4144bf/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /Users/deepesh/.android/build-cache/c802d6377321af53874945bc261c965186f1605d/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/deepesh/.android/build-cache/ca48c2df412b8bce7ea26e14d97a2d85d8519c36/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] /Users/deepesh/.android/build-cache/6123cc6c2c2e4233231d02a3cf098d6c3dcbe346/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] /Users/deepesh/.android/build-cache/0a88e0db651f8f156a415c4b86cb8326b0fed7ca/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /Users/deepesh/.android/build-cache/2c83cfcbb8039157e41d28e788f6121dad02201d/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/deepesh/.android/build-cache/11a3c8011198a08a6639449c87897be0f4733f74/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/deepesh/.android/build-cache/a4881fdffa6633c53365d99db6d60b7f191e2dd9/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/deepesh/.android/build-cache/87e4db4f18ff3f35c2d0d474ea3e6f00971f30a1/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/deepesh/.android/build-cache/cc71c84dee5549e12aa566c478383b52067d9e3f/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/deepesh/.android/build-cache/845e62ee825833833992e6f237a33dced9aef6c6/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:33:13-45
+	android:allowBackup
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:32:13-39
+	android:icon
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:34:13-47
+	android:theme
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:35:13-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:40:9-42:74
+	android:value
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:42:17-72
+	android:name
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:41:17-62
+activity#com.example.google.playservices.placecompletefragment.MainActivity
+ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:44:9-51:20
+	android:label
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:46:17-49
+	android:name
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:45:17-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:47:13-50:29
+action#android.intent.action.MAIN
+ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:48:17-68
+	android:name
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml:49:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/deepesh/.android/build-cache/342d2d163b616bcff933347671f7ba00356c46ff/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/deepesh/.android/build-cache/342d2d163b616bcff933347671f7ba00356c46ff/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/deepesh/.android/build-cache/342d2d163b616bcff933347671f7ba00356c46ff/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/deepesh/.android/build-cache/342d2d163b616bcff933347671f7ba00356c46ff/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/deepesh/.android/build-cache/342d2d163b616bcff933347671f7ba00356c46ff/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/deepesh/.android/build-cache/342d2d163b616bcff933347671f7ba00356c46ff/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/deepesh/.android/build-cache/342d2d163b616bcff933347671f7ba00356c46ff/output/AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/deepesh/.android/build-cache/f1b86fc77dfb316f22b50fc57e48587730fb6d45/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/deepesh/.android/build-cache/e883f1a881480e6013a617d5b2d0fcfdfb27b46b/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/deepesh/.android/build-cache/ca48c2df412b8bce7ea26e14d97a2d85d8519c36/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/deepesh/.android/build-cache/f1b86fc77dfb316f22b50fc57e48587730fb6d45/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/deepesh/.android/build-cache/93c681ae7d7b898f472d67fffbb025fbeb9edb93/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/deepesh/.android/build-cache/93c681ae7d7b898f472d67fffbb025fbeb9edb93/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/deepesh/.android/build-cache/93c681ae7d7b898f472d67fffbb025fbeb9edb93/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/deepesh/.android/build-cache/93c681ae7d7b898f472d67fffbb025fbeb9edb93/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/deepesh/.android/build-cache/93c681ae7d7b898f472d67fffbb025fbeb9edb93/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/deepesh/.android/build-cache/93c681ae7d7b898f472d67fffbb025fbeb9edb93/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/deepesh/.android/build-cache/93c681ae7d7b898f472d67fffbb025fbeb9edb93/output/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/deepesh/.android/build-cache/93c681ae7d7b898f472d67fffbb025fbeb9edb93/output/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/deepesh/.android/build-cache/93c681ae7d7b898f472d67fffbb025fbeb9edb93/output/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/deepesh/.android/build-cache/848749768bc88670a2c824ee0673953ec6eff9af/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/deepesh/.android/build-cache/848749768bc88670a2c824ee0673953ec6eff9af/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/deepesh/.android/build-cache/848749768bc88670a2c824ee0673953ec6eff9af/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/deepesh/.android/build-cache/848749768bc88670a2c824ee0673953ec6eff9af/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/deepesh/.android/build-cache/848749768bc88670a2c824ee0673953ec6eff9af/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/deepesh/.android/build-cache/848749768bc88670a2c824ee0673953ec6eff9af/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/deepesh/.android/build-cache/848749768bc88670a2c824ee0673953ec6eff9af/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/deepesh/.android/build-cache/848749768bc88670a2c824ee0673953ec6eff9af/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/deepesh/.android/build-cache/848749768bc88670a2c824ee0673953ec6eff9af/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/deepesh/.android/build-cache/2786c8ea24b1e359702eb0a772e43b857bdc5066/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/deepesh/.android/build-cache/2786c8ea24b1e359702eb0a772e43b857bdc5066/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/deepesh/.android/build-cache/2786c8ea24b1e359702eb0a772e43b857bdc5066/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/deepesh/.android/build-cache/2786c8ea24b1e359702eb0a772e43b857bdc5066/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/deepesh/.android/build-cache/2786c8ea24b1e359702eb0a772e43b857bdc5066/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/deepesh/.android/build-cache/2786c8ea24b1e359702eb0a772e43b857bdc5066/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/deepesh/.android/build-cache/ea2c8cf9cdfc3411181ec3981497f92409226e01/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/deepesh/.android/build-cache/ea2c8cf9cdfc3411181ec3981497f92409226e01/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/deepesh/.android/build-cache/ea2c8cf9cdfc3411181ec3981497f92409226e01/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/deepesh/.android/build-cache/ea2c8cf9cdfc3411181ec3981497f92409226e01/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/deepesh/.android/build-cache/ea2c8cf9cdfc3411181ec3981497f92409226e01/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/deepesh/.android/build-cache/ea2c8cf9cdfc3411181ec3981497f92409226e01/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/deepesh/.android/build-cache/ea2c8cf9cdfc3411181ec3981497f92409226e01/output/AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/deepesh/.android/build-cache/788d7d45134ec5f922944f569bd1688bd054e5a1/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/deepesh/.android/build-cache/b37caf85525490af263292fd53dd6b6c63d4c697/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/deepesh/.android/build-cache/788d7d45134ec5f922944f569bd1688bd054e5a1/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:27:23-69
+		INJECTED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/deepesh/.android/build-cache/e883f1a881480e6013a617d5b2d0fcfdfb27b46b/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/deepesh/.android/build-cache/e883f1a881480e6013a617d5b2d0fcfdfb27b46b/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:24:17-71
+		INJECTED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:26:22-76
+		INJECTED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:33:27-58
+		INJECTED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/deepesh/.android/build-cache/bf2039cdad743cee65399dc38f419e4bfd4144bf/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/deepesh/.android/build-cache/bf2039cdad743cee65399dc38f419e4bfd4144bf/output/AndroidManifest.xml:6:19-78
+		INJECTED from /Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/deepesh/.android/build-cache/bf2039cdad743cee65399dc38f419e4bfd4144bf/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/deepesh/.android/build-cache/bf2039cdad743cee65399dc38f419e4bfd4144bf/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/deepesh/.android/build-cache/bf2039cdad743cee65399dc38f419e4bfd4144bf/output/AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] /Users/deepesh/.android/build-cache/11a3c8011198a08a6639449c87897be0f4733f74/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /Users/deepesh/.android/build-cache/11a3c8011198a08a6639449c87897be0f4733f74/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /Users/deepesh/.android/build-cache/11a3c8011198a08a6639449c87897be0f4733f74/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/deepesh/.android/build-cache/a4881fdffa6633c53365d99db6d60b7f191e2dd9/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/deepesh/.android/build-cache/a4881fdffa6633c53365d99db6d60b7f191e2dd9/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/deepesh/.android/build-cache/a4881fdffa6633c53365d99db6d60b7f191e2dd9/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/deepesh/.android/build-cache/a4881fdffa6633c53365d99db6d60b7f191e2dd9/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] /Users/deepesh/.android/build-cache/cc71c84dee5549e12aa566c478383b52067d9e3f/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /Users/deepesh/.android/build-cache/cc71c84dee5549e12aa566c478383b52067d9e3f/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /Users/deepesh/.android/build-cache/cc71c84dee5549e12aa566c478383b52067d9e3f/output/AndroidManifest.xml:20:20-65

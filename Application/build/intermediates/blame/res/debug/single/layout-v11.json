@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/deepesh/.android/build-cache/0a12d60429aaa38716ec5e7656b6065f1f6117d2/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/deepesh/.android/build-cache/0a12d60429aaa38716ec5e7656b6065f1f6117d2/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/deepesh/.android/build-cache/0a12d60429aaa38716ec5e7656b6065f1f6117d2/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/deepesh/.android/build-cache/0a12d60429aaa38716ec5e7656b6065f1f6117d2/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/deepesh/.android/build-cache/0a12d60429aaa38716ec5e7656b6065f1f6117d2/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/deepesh/.android/build-cache/0a12d60429aaa38716ec5e7656b6065f1f6117d2/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]

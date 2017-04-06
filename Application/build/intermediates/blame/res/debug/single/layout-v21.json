@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/deepesh/.android/build-cache/0a12d60429aaa38716ec5e7656b6065f1f6117d2/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/deepesh/.android/build-cache/0a12d60429aaa38716ec5e7656b6065f1f6117d2/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/deepesh/.android/build-cache/64af70f7e64d6426d341127afc9472fbcf2ac56a/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/deepesh/.android/build-cache/0a12d60429aaa38716ec5e7656b6065f1f6117d2/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/deepesh/.android/build-cache/0a12d60429aaa38716ec5e7656b6065f1f6117d2/output/res/layout-v21/notification_action.xml"
+    }
+]

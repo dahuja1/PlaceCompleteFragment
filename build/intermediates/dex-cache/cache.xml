@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/fc984f893fe8580539e44182b34ee438a0090bf6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_fc304a7e1a098034817303d4cd31cb961ca8f33d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/67e729721d67729424ee82ec9ea434e09d81832f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_c93c37a71b604135803d4858b37956bf88bdd8c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/d6f3f3a9580008905dd1adb1b70bb71b902c2fd6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_b51fb4187d3efdc8fbd6b0a4abdd44629b8bfd5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/bf2039cdad743cee65399dc38f419e4bfd4144bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_63e64bf91d67647992eddaa76cdd7595c1f8f8d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/f221a366e5d2e20379ce8d0d3ffce17e022256c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_6a643d014d8ebecc41b976916c1ddb8ed298423d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/9a879df883e8c2f08e5b4ef35a6e11bebce7b6de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_4a667ad7f68c9488f707be05fe1526370f71210e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/848749768bc88670a2c824ee0673953ec6eff9af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_d0dcdc6e75ebe5a1c27019de63b45674a23f6879.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2b81f9420201dc9da50c16e811a27af29af01eee/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/9c28aeb5b17e22d2c0d4a88f08bd3a17bacdd150/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_60eb12954a64890946e9896f45487aebe2212a8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/0a88e0db651f8f156a415c4b86cb8326b0fed7ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_bd4cc83e96570fd25828a49a830f527c99f510ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/9361f017c3fd9ccc525f48864a9ed2401d9441c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_780a0973d2ae995d15e993c433a8c0ab61205923.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/07d456c4aa9f329ae776495fca96e5aa1dce8f69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_1d56fe01ef5039c74463fc7283269c95571d96c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/404cc2b6f7637e75a7fabe55e53f78db738fd7d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_7d3d963fae22355986c1ceb134d181cb1e1176b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/486724195aac209e9d10e2f82e4d68de0b62d4b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_f523052943d370fbc22cd85bf7fd2dce9d8ec5d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/93674b78d6173af6193dda9d92edaaa8422ee178/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_f566d0e6c9116a31ec47825b1b402705e1a5aab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/f1b86fc77dfb316f22b50fc57e48587730fb6d45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_5a42904734bfaa107c37d76ca846217feacb427e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/ca48c2df412b8bce7ea26e14d97a2d85d8519c36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_a0eafab9921408829ca6ac909775f2bb2185668d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepesh/.android/build-cache/2a0e5db58b4006039dd6e0c385c804db751e9e6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e23e32a0b8fb949d9435b7034d61ed5199714dbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/2c83cfcbb8039157e41d28e788f6121dad02201d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_27072567136caa0adda5ddc982841876d336fb6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/5441550dad135951f0fff1eb1710ab0bea03c6f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_fb94208a5635d3ace94c6c2b969af840ffbf44e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/8cdb4cfe6d78a9d728d5fa445c7045e5c804cc9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_6fb515c00b1b02cf095b1cbb646b53e9c3538e75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/69af23c9af986cf59561f54e5ca8aa663edee1da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_aa36e1fa6cdf5a3ba408ea500cf67c186a4448dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/6f4111a13739cf56633b2d79d163ce714b507eb2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_f9f8e981c54a8c4025800ddfc6335cf3bbcc1450.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/b37caf85525490af263292fd53dd6b6c63d4c697/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_0038f1f6007ff19937dc8cdb2f511cd89e368845.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/d70fff961f2a3ac424563619d34ed618d121fa02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_0d5d970cb77abd26eddb7f256618a2f9c12a2c20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/93c681ae7d7b898f472d67fffbb025fbeb9edb93/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_aced3d0d15667323bdd736ede45fab06697914b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/7805bd0374b557267017bf99f25c98e539213fc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_640dd5a1e787e3cb01b0d5c872b32680a34afeb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/2786c8ea24b1e359702eb0a772e43b857bdc5066/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_3879bf8be16641a13145c3549625846251e55610.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/7805bd0374b557267017bf99f25c98e539213fc8/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_07ce7bb2b749b6d2fe4ca2172decd74223bca2d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/2e93c050fe4cff6a6899cb963ba2f55fc3360986/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_3683b6f86a59f6276a14b5766fedebf26e7c0a8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/ae9f87a7a92f25f0e607257b2a864c6193cec608/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_69edad741e2cb9ab33e48c4fd5f43c2c656623a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/c177426fd39542740fb0cac02337eebcbc3e3d05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_7bdfd8b4088f4cffd6ceb1ce5bdc5cf0b7fcf3f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/e883f1a881480e6013a617d5b2d0fcfdfb27b46b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_fb861723ca787095c68dc9e2cfc8be1429ba8ee3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/d2feb3aff1cf8adac063b081d21b887927b15f5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_b54138c886c84c3ab3b1a23fd3bd25f75fc1147b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/de6c9a4a21d80d6500ce840fc05dfb7e96fad888/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_4c8c849b39fbbb2c60d8e4285150d58e922a918a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/6e5d8adb8cecf71afd99c4bbf4a97a6e0fef4398/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_9f7ed154b5dfd4a4675d115e6ab0a4d43062ded1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/51519728a29fe61c80056897b92731f68d175c14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_32d84d5d77093b80c6da180265b8c7bf73efe4a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/ea2c8cf9cdfc3411181ec3981497f92409226e01/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_d4bcf4089920fdfef27d0c8726231bcd40ce3dde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/8253c88c40d88894222eb298fca734496f806e0d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_7e08e41f1081c2f837198be6f8b05143ffc90bf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/f041790df2467b4d0464b733d6c8ea29d6771649/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_b4e9144acc7837f6b09ef348f14af0471a9b652f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/64af70f7e64d6426d341127afc9472fbcf2ac56a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_2657871c760e6859cca39ea7669f071c25294696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/aad5c772a25111930c78eeb756478e125a7116c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_f146c8c0fdb52eb399ab8a861aeeefdb0d54ca00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/788d7d45134ec5f922944f569bd1688bd054e5a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_9becd0ce4703ac0536a55f3953c728cfa7afb68a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/1fc8e035536bf7cc9a5b7982dda980216932c821/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_195f2fcd3220b07a94a0fd7d821c2f6373173b14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/012692cfc1e2a343f6962fed94076c724f06f91b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_a0f51c1e01882571bdd1364d82bc54956d35859e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/6123cc6c2c2e4233231d02a3cf098d6c3dcbe346/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_1812d3f3bb668c1bca4d89f7400fc65f7635dcbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/c177426fd39542740fb0cac02337eebcbc3e3d05/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_10f2fda3d976f93b97f6bda7dd899266c5700ec0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/5f7ba3743b42027c9a748996201b0b15f115d5c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_e418cea01cdc3724e90c5756a7ca792e7acea0a0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60af623589027791ff9f02bb02b40df62fd30042">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1c77467d3a804f5fbc6bd2e3a1752aa5ea65926c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/85f6537a94508e949e5a2f5bf37b72503172271b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_61d41663fa43c2922ff6757781550abf33a9a528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/342d2d163b616bcff933347671f7ba00356c46ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_3f55705495907ee337528c0a2fc3765880cd7a10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/c802d6377321af53874945bc261c965186f1605d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_879f518573e88b72d3abbd7b5ce5a60c37e0ed1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/0c286c7eabbbc9fe3527194f19f92e37f595b210/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_a9dfe304dcc3f1cb9905f49861f2c27264742f18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/c41f13f007b9c4ce837ff76a1e2b201a6cc0f5db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_1a3cb3bb75a3b1203cd93783242af0f9c4fdf0ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deepesh/.android/build-cache/2229e9bcb999a64a6d872932f5297ebb369dd3a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/pre-dexed/debug/classes_788559babfbe1715aca9dfcb7793622d14591b5b.jar" />
+    </item>
+
+</items>

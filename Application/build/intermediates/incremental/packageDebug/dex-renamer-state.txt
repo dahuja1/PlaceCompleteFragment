@@ -1,0 +1,7 @@
+#Thu Apr 06 15:56:33 IST 2017
+base.0=/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1c77467d3a804f5fbc6bd2e3a1752aa5ea65926c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2b81f9420201dc9da50c16e811a27af29af01eee/classes.dex
+base.1=/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2b81f9420201dc9da50c16e811a27af29af01eee
+file.0=/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1c77467d3a804f5fbc6bd2e3a1752aa5ea65926c/classes.dex

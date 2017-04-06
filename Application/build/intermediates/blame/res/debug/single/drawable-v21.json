@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/deepesh/.android/build-cache/f041790df2467b4d0464b733d6c8ea29d6771649/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/deepesh/.android/build-cache/0a12d60429aaa38716ec5e7656b6065f1f6117d2/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/deepesh/.android/build-cache/f041790df2467b4d0464b733d6c8ea29d6771649/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/deepesh/Downloads/android-play-places-master/PlaceCompleteFragment/Application/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/deepesh/.android/build-cache/f041790df2467b4d0464b733d6c8ea29d6771649/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
